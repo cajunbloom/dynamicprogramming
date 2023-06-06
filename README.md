@@ -1,6 +1,6 @@
 <h1>Dynammic Programming Practice - Pipe Cutting Project </h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 <h2>Description</h2>The program is a Knapsack Problem variant. OBI (Brazilian Organization of Facilities) is a company that produces pipes and fitters. The production technique used at OBI always produces long pipes, which are then cut to satisfy client needs.
 

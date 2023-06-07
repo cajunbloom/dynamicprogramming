@@ -15,25 +15,22 @@ Output
 For each test case, print in one line the greatest possible value that can be obtained by cutting and selling a pipe with original length T.
 <br />
 
+Test case: 
+3 10
+6 3
+2 1
+5 2
+
+Expected output: 5
+
 
 <h2>Languages Used</h2>
 
 - <b>Java</b> 
 
-<h2>Program walk-through:</h2>
 
-<p align="center">
-Running the program and running test case (3 10
-6 3
-2 1
-5 2) <br/>
-<img src="https://imgur.com/a/hUDnqco" height="80%" width="80%" alt="Running Test Case"/>
 
-<br />
-<br />
-Greatest possible value that can be obtained(5):  <br/>
- <img src="[https://i.imgur.com/tcTyMUE.png]" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 <!--
  ```diff
